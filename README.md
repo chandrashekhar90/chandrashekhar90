@@ -2,8 +2,7 @@
 ## Java Developer | IT Fresher | Problem Solver 🚀  
 
 ### About Me:  
-- 🎓 **B.Tech in Computer Science Engineering** (2024)  
-- 💻 **Certified Java Programmer** | **VS Code Enthusiast**  
+- 🎓 **B.Tech in Computer Science Engineering** (2024)    
 - 🌱 Currently learning and improving my skills in:
   - Java Development
   - Data Structures & Algorithms
@@ -14,8 +13,8 @@
 ### Tech Stack:
 - **Languages**: Java, C, Python, JavaScript, Sql.
 - **Tools**: VS Code, Git, GitHub
-- **Concepts**: OOP, Version Control, Debugging
+- **Concepts**: OOP, DBMS, Version Control
 
 ### Let’s Connect:
-- ✉️ [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- ✉️ [Email](chandrashekhar902750@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandrashekhar90)
